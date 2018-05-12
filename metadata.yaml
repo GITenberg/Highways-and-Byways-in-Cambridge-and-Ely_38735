@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '4703'
     url: http://www.gutenberg.org/2009/agents/4703
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38735#Highways-and-Byways-in-Cambridge-and-Ely
 gutenberg_bookshelf: Travel
 gutenberg_issued: '2012-02-01'
 gutenberg_type: Text
